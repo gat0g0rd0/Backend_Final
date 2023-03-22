@@ -11,7 +11,7 @@
     <groupId>com.portfolio</groupId>
     <artifactId>oscarcalle</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>ocp.Produccion</name>
+    <name>oscarcalle.Produccion</name>
     <description>Portfolio Oscar Calle</description>
     <properties>
         <java.version>1.8</java.version>
